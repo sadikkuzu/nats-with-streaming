@@ -1,6 +1,6 @@
 # nats-with-streaming
 
-Docker compose file for nats and nats-streaming
+[Docker compose file](./docker-compose.yml) for nats and nats-streaming
 
 ---
 
@@ -14,7 +14,7 @@ docker-compose up --build -d
 
 http://localhost:8224/
 
-![](./nats-monitoring.png)
+[![](./nats-monitoring.png)](https://docs.nats.io/nats-streaming-concepts/intro)
 
 ---
 
