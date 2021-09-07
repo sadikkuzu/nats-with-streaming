@@ -2,6 +2,8 @@
 
 [Docker compose file](./docker-compose.yml) for nats and nats-streaming
 
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sadikkuzu/nats-with-streaming/main.svg)](https://results.pre-commit.ci/latest/github/sadikkuzu/nats-with-streaming/main)
+
 ---
 
 ### Usage
